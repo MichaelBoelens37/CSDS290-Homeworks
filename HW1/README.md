@@ -1,4 +1,4 @@
-To view the rubric for this assignment, click here
+To view the rubric for this assignment, click [here](https://docs.google.com/document/d/1KGJau51AZOVo2EDmsDb_y3T_YMy0VpJkLB7CuT5MOB4/edit?usp=sharing))
 
 To view the game design document, click here
 

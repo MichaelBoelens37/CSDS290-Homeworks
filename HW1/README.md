@@ -10,4 +10,9 @@ Our first assignment was to create a Text Adventure game with a group of 4 membe
 
 -------Pictures---------
 
+![image](https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/2f49446d-4970-4c0d-bbf9-fe95efad83f6)
+
+![image](https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/63a22dc3-e579-4cb4-9e39-25279574ad57)
+
+![image](https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/47ca03a3-74c6-487c-afb7-e0e3ddea4ad4)
 

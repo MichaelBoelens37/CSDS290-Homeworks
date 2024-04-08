@@ -3,7 +3,9 @@ This is a repo for the 6 homework assignmets I had to complete for my Introducti
 
 HW 1: Create a Text Adventure
 
-HW 2: Intro to Unity 3D: A Simple 3D
+(HW2 + HW3 in same file)
+
+HW 2: Intro to Unity 3D: A Simple 3D 
 
 HW 3: 3D Assets, Textures, and Sound
 

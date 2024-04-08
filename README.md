@@ -1,5 +1,5 @@
 # CSDS290-Homeworks
-This is a repo for the 6 homework assignmets I had to complete for my Introduction to Computer Game Design Class: 
+This is a repo for the 6 homework assignments I had to complete for my Introduction to Computer Game Design Class: 
 
 HW 1: Create a Text Adventure
 

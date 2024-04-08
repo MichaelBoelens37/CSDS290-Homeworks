@@ -1,12 +1,12 @@
-To view the rubric for this assignment, click [here](https://docs.google.com/document/d/1KGJau51AZOVo2EDmsDb_y3T_YMy0VpJkLB7CuT5MOB4/edit?usp=sharing))
-
-To view the game design document, click here
-
 To play the game for yourself, click here
+
+To view the game design document, click [here](https://drive.google.com/file/d/1nB2fVL3CQoJQaBMoPhpwND-GOVYExy64/view?usp=sharing)
 
 -------Description------
 
-Our first assignment was to create a Text Adventure game with a group of 4 members. We used QuestEngine to create this game. We each provided an idea of what the game could be about, and we ended up using my idea. In summary, the player needs to complete a variety of puzzles to make their way to the front of the train car and stop the train. This assignment mainly helped us develop and show our creativity in story making. 
+Our first assignment was to create a Text Adventure game with a group of 4 members. We used QuestEngine to create this game. We each provided an idea of what the game could be about, and we ended up using my idea. In summary, the player needs to complete a variety of puzzles to make their way to the front of the train car and stop the train. This assignment mainly helped us develop and show our creativity in story making.
+
+To view the official rubric for this assignment, click [here](https://drive.google.com/file/d/14-QvGUY592K1NMeHJe-JzQhRkIcQDC_X/view?usp=sharing)
 
 -------Pictures---------
 

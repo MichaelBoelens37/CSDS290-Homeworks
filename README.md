@@ -2,7 +2,8 @@
 This is a repo for the 6 homework assignments I had to complete for my Introduction to Computer Game Design Class: 
 
 HW 1: Create a Text Adventure
-![image](https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/2f49446d-4970-4c0d-bbf9-fe95efad83f6)
+
+<img src="https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/2f49446d-4970-4c0d-bbf9-fe95efad83f6" alt="HW1Image" width="400"/>
 
 (HW2 + HW3 in same file)
 

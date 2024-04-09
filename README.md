@@ -9,6 +9,8 @@ HW 1: Create a Text Adventure
 
 HW 2 + HW 3: Intro to Unity 3D: A Simple 3D + 3D Assets, Textures, and Sound
 
+<img src="https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/646ed5fd-491b-498a-9b34-2d919488a6d2" alt="HW2+HW3Image" width="400"/>
+
 HW 4: 2D Memory Card Game
 
 HW 5: 3D Avatar Animation

@@ -17,4 +17,6 @@ HW 4: 2D Memory Card Game
 
 HW 5: 3D Avatar Animation
 
+<img src= "https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/6326379b-e656-468c-b138-c81402770a7c" alt= "HW5Image" width="400"/>
+
 HW 6: 2D Level Design

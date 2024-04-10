@@ -13,6 +13,8 @@ HW 2 + HW 3: Intro to Unity 3D: A Simple 3D + 3D Assets, Textures, and Sound
 
 HW 4: 2D Memory Card Game
 
+<img src="https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/c803b6f0-a5e2-4674-b0c2-b623fb71235e" alt="HW4Image" width="400"/>
+
 HW 5: 3D Avatar Animation
 
 HW 6: 2D Level Design

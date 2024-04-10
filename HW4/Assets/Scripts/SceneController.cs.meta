@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 312ceebd821104d929a1d8be19fffc65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - originalCard: {instanceID: 0}
+  - scoreLabel: {instanceID: 0}
+  - gridDropdown: {instanceID: 0}
+  - poofEffectPrefab: {fileID: 7112736817860517697, guid: 19d9f8bde8070e54fafbf5e4156dacc6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

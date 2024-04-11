@@ -6,6 +6,7 @@ To access the 2D game kit, click [here](https://assetstore.unity.com/packages/te
 
 ----------Description-------------
 
-To view the rubric for this assignment, click [here](https://drive.google.com/file/d/1pQQs1KtG6FjZyAJM-J0iSsRPY3FF-jej/view?usp=sharing).
+For our 6th and final assignment, we were instructed to download Unity's 2D gamekit and design 3 different, original levels. The levels are meant to be increasingly difficult to "beat" where the last level should take multiple tries to beat. While I used most of the 2D game mechanics, I added some of my own as well. For example, I added the damager component to a block, so when a block drops on an enemy, it will get crushed and die. I also added a damager to the feet of the main character so you can jump on enemies to kill them. To view the rubric for this assignment, click [here](https://drive.google.com/file/d/1pQQs1KtG6FjZyAJM-J0iSsRPY3FF-jej/view?usp=sharing). To view my Game Design Document, click [here](https://drive.google.com/file/d/19ksf8XYzBwxelorP03pFOfW5F3-AufAC/view?usp=sharing).
 
-To view my Game Design Document, click [here](https://drive.google.com/file/d/19ksf8XYzBwxelorP03pFOfW5F3-AufAC/view?usp=sharing).
+-----------Pictures----------------
+

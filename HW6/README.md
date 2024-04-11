@@ -12,8 +12,12 @@ For our 6th and final assignment, we were instructed to download Unity's 2D game
 
 ![image](https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/eea15e95-afea-4921-ab01-7b1318755b70)
 
-
+Jumping on enemies:
 
 https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/c14e2c5c-7b88-4e01-a93c-5e3e5c4a540a
 
+Dropping block on enemies:
 
+https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/165a53d9-a396-4b02-a9ec-e04e90645293
+
+Killing enemy to open door:

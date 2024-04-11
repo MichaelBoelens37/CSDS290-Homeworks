@@ -5,8 +5,6 @@ HW 1: Create a Text Adventure
 
 <img src="https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/2f49446d-4970-4c0d-bbf9-fe95efad83f6" alt="HW1Image" width="400"/>
 
-(HW2 + HW3 in same file)
-
 HW 2 + HW 3: Intro to Unity 3D: A Simple 3D + 3D Assets, Textures, and Sound
 
 <img src="https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/646ed5fd-491b-498a-9b34-2d919488a6d2" alt="HW2+HW3Image" width="400"/>
@@ -20,3 +18,5 @@ HW 5: 3D Avatar Animation
 <img src= "https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/6326379b-e656-468c-b138-c81402770a7c" alt= "HW5Image" width="400"/>
 
 HW 6: 2D Level Design
+
+<img src= "https://github.com/MichaelBoelens37/CSDS290-Homeworks/assets/112408082/eea15e95-afea-4921-ab01-7b1318755b70" alt="HW6Image" width="400"/>
